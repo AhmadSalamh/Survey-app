@@ -21,5 +21,5 @@ To build the application for production, use the following command:
 - npm run build
 
 To preview the production build, use the following command:
-npm run preview
+- npm run preview
 
