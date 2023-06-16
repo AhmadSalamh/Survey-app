@@ -1,7 +1,25 @@
-# Vue 3 + Vite
+## Vue 3
+Vue is a web application built using the Vue.js framework. It includes the following packages:
+ - @headlessui/vue: A set of completely unstyled, fully accessible UI components for Vue.js, designed to integrate beautifully with      Tailwind CSS.
+    - @heroicons/vue: A set of free, open-source SVG icons for Vue.js, designed to be dropped into any project.
+    - @tailwindcss/forms: A plugin for Tailwind CSS that provides a set of pre-designed form components, such as checkboxes, radios, and select menus.
+    - axios: A promise-based HTTP client for the browser and Node.js.
+    - uuid: A library for generating and working with UUIDs (universally unique identifiers).
+    - vue: The Vue.js framework itself.
+    - vue-router: The official router for Vue.js.
+    - vuex: A state management pattern + library for Vue.js applications.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Installation
+To install the dependencies for this project, run the following command:
+- npm install
 
-## Recommended IDE Setup
+## Usage
+To run the development server, use the following command:
+- npm install
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+To build the application for production, use the following command:
+- npm run build
+
+To preview the production build, use the following command:
+npm run preview
+
