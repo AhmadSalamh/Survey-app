@@ -15,7 +15,7 @@ To install the dependencies for this project, run the following command:
 
 ## Usage
 To run the development server, use the following command:
-- npm install
+- npm run dev
 
 To build the application for production, use the following command:
 - npm run build
